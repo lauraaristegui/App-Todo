@@ -1,5 +1,6 @@
 # Getting Started with Create React App
-
+<img src="https://github.com/lauraaristegui/App-Todo/blob/main/assets/imagen.png" alt="foto" />
+<a href="https://stoic-bohr-0bd109.netlify.app"><p>Todo App</p></a>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
